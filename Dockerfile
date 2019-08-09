@@ -1,4 +1,4 @@
-FROM juanluisbaptiste/otrs:6.0.19
+FROM juanluisbaptiste/otrs:6.0.20
 MAINTAINER Rodrigo Brayner <rbrayner@gmail.com>
 
 RUN chown otrs.apache /opt/otrs/var/run
